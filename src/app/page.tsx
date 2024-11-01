@@ -14,7 +14,6 @@ export default function Home(){
   </div>
   <Herosec />
   <Featuring />
-  {/* <Details /> */}
   <Footer />
 </div>
 
