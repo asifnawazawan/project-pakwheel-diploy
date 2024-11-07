@@ -31,20 +31,19 @@ export default function featuring(){
                 <button><Link href="/hondaCity">HONDA CITY</Link></button>
             </div>
             <div>50 Lac Rupees</div>
-           
             </h1>
             <h1 className="text-blue-600 font-medium">
            <div>
             <img src="civics.jpg" alt="" />
-            <button><Link href="/hondaCivic">HONDA CITY</Link></button>
+            <button><Link href="/hondaCivic">HONDA CIVIC</Link></button>
             </div> 
-            <h1>80 Lac Rupees</h1>
+            <div>80 Lac Rupees</div>
             </h1>
             <h1 className="text-blue-600 font-medium">
             
             <img src="corolla.jpg" alt="" />
             <div>
-            <button><Link href="/Corolla">HONDA CITY</Link></button>
+            <button><Link href="/Corolla">Corolla</Link></button>
             </div>
             <div>60 Lac Rupees</div>
             
